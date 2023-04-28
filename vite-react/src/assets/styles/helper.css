@@ -1,0 +1,82 @@
+.center-xy {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.center-y-start-x {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+.center-y-end-x {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+.text-center {
+   text-align: center !important;
+}
+.text-start {
+   text-align: start !important;
+}
+.text-end {
+   text-align: end !important;
+}
+.text-white {
+   color: white !important;
+}
+.text-success {
+   color: #28a745;
+}
+.text-danger {
+   color: #ee4a19 !important;
+}
+.text-gray {
+   color: #ada9a9;
+}
+.t-t-c {
+   text-transform: capitalize;
+}
+.t-t-u {
+   text-transform: uppercase;
+}
+.t-t-l {
+   text-transform: lowercase;
+}
+.badge {
+   display: inline-block;
+   padding: 0.35em 0.65em;
+   font-size: 0.75em;
+   font-weight: 700;
+   line-height: 1;
+   color: white;
+   text-align: center;
+   white-space: nowrap;
+   vertical-align: baseline;
+   border-radius: 0.25rem;
+   background: #7952b3;
+}
+.d-block {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.d-none {
+   display: none !important;
+}
+.mx-auto {
+   margin: auto;
+}
+.img-res {
+   max-width: 100%;
+   height: auto;
+}
+.cursor-pointer {
+   cursor: pointer;
+}
+.h-100 {
+   height: 100%;
+}
+.w-100 {
+   width: 100%;
+}
